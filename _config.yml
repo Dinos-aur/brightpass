@@ -1,0 +1,7 @@
+title: Brightpass
+description: When the International Space Station passes over you, and whether you'll see it.
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
