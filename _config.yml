@@ -5,3 +5,4 @@ kramdown:
   input: GFM
 exclude:
   - README.md
+baseurl: /brightpass
